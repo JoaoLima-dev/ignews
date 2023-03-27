@@ -1,24 +1,33 @@
-Itech
+
 IGNEWS
-💻 Plataforma onde eu como usuário posso acessar conteúdos em texto sobre programação, mas isso só será possivel se eu usuário fazer uma inscrição na plataforma.
+
+💻 
+Platform where I, as a user, can access text content about programming, but this will only be possible if I register on the platform.
+
+
 Status: 🚧 work in progress
-About • Features • Layout • How it works • Tech Stack • License
+
+
 
  
 
 📝 About
-Ignews Plataforma para visualização de conteúdos sobre programação. Ignews.
+
+Ignews Platform for viewing programming content. news.
 
  
+
 
 ⚙️ Features
-Usuários (a) podem:
+Users can:
 
- fazer login com github
- visualizar, todos conteúdos publicados pela plataforma.
- usuário esta fazendo sua inscrição na plataforma.
- usuário listar conteudos completo quando estiver com sua assinatura ativa na plataforma.
+ Login with github
  
+ View all content published by the platform.
+ 
+ User can register
+ 
+ User can list complete contents when he has his subscription active on the platform.
 
 🎨 Layout
 The application layout is available on https://www.figma.com/file/PWxhJhbatWlgVgho4acYGh/ig.news-(Copy)?node-id=1%3A2
@@ -26,25 +35,21 @@ The application layout is available on https://www.figma.com/file/PWxhJhbatWlgVg
  
 
 Environments
+
 Environments	URL
 Local	http://localhost:3000
 Homologation	https://www.homologacao.ignews/
 Production	https://www.ignews.com.br
-CIA Triad
-Confidentiality
-🚧 WIP
-Integrity
-🚧 WIP
-Availability
-🚧 WIP
+
 Pre-requisites
+
 Before you begin, you will need to have the following tools installed on your machine:
 
 Git
 Node.js 14+
 Running the application
 # Clone this repository
-$ git clone https://github.com/Weverson-Luan/ignews.git
+$ git clone https://github.com/JoaoLima-dev/ignews
 
 # Access the project folder cmd/terminal
 $ cd ignews
@@ -56,11 +61,7 @@ $ yarn install
 $ yarn dev
 
 # The server will start at port: 3000 - go to http://localhost:3000
-Tests
-🚧 WIP
 
-Deploying
-🚧 WIP
 
  
 
@@ -89,4 +90,4 @@ Fonts: Poppins, Roboto
 
 ©️ License
 This project is under the license MIT.
-Feito com ❤️ por Joao Lima.
+Made with ❤️ por Joao Lima.
